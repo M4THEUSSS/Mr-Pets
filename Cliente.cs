@@ -2,7 +2,7 @@ namespace Mr-Pets
  {
      class Cliente
     {
- publicstring nome{get; set;}
+ public string nome{get; set;}
  public string endereco {get; set;}
  public floatvalor{get; protected set;}
  public floatvalor_imposto {get; protectedset;}
